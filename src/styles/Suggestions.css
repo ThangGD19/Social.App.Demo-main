@@ -1,0 +1,12 @@
+.MuiPaper-root {
+    border-radius: 8px;
+  }
+  
+  .MuiListItem-root {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  
+  .MuiAvatar-root {
+    border: 1px solid #efefef;
+  }
